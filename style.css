@@ -1,0 +1,47 @@
+body {
+    background: #A9907E;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #F3DEBA;
+}
+
+/* h2 {
+    color: #ABC4AA;
+} */
+
+div {
+    text-align: center;
+}
+
+a{
+    color: #ABC4AA;   
+}
+
+ul,
+ol,
+p {
+    color: #675D50;
+}
+
+ul,
+ol {
+    padding-left: 40%;
+    padding-right: 30%;
+    /* list-style-type: none; */
+}
+
+.recipes__list {
+    list-style-type: none;
+}
+
+li {
+    text-align: left;
+}
+
+.recipe__img {
+    height: 400px;
+    width: auto;
+}
